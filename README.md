@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChauhanRishiCR
+- 👀 I’m interested in ASIC Verification
+- 🌱 I’m currently working as development and verification engineer
+- 💞️ I’m looking to collaborate on verification using SV and UVM
+- 📫 You reach me via my LinkedIn profile https://www.linkedin.com/in/rishikumar-chauhan-64750267/ or mail me on "rishisinghchauhan007@gmail.com"
